@@ -8075,3 +8075,19 @@ button.close {
         display: none !important
     }
 }
+
+
+/* ========== Ajout en plus ==========*/
+
+.text-replace-img{
+    font-size: 24px;
+}
+
+.comments-replace-img{
+    font-size: 18px;
+}
+
+.comments-replace-img q{
+    font-style: italic;
+    font-size: 22px;
+}
